@@ -75,6 +75,7 @@ The main physical components of this layout are:
 ---
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/3135d14b-e064-40e7-9261-6f33ff8b0fcd" />
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/0eb8aa40-938b-4815-922f-d8d8a625fe7d" />
+<img width="1115" height="1600" alt="image" src="https://github.com/user-attachments/assets/86bc8e99-6d59-4045-988a-521916143426" />
 
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
